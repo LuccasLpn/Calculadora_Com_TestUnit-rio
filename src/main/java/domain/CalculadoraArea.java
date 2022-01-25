@@ -43,8 +43,4 @@ public class CalculadoraArea {
         System.out.println("3 - Calculo de Area Retangulo");
     }
 
-
-
-
-
 }

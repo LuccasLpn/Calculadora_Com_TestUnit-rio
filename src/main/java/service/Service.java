@@ -60,7 +60,7 @@ public class Service {
                 imcService.calculoImc(imc.getPeso(), imc.getAltura());
                 break;
             case 3:
-                calculadoraArea.opçao();
+/*                calculadoraArea.opçao();
                 int x = sc.nextInt();
                 switch (x){
                     case 1:
@@ -75,7 +75,7 @@ public class Service {
                         calculadoraArea.entradaDeDadosRetangulo();
                         AreaService.calculoRetangulo(calculadoraArea.getBase(),calculadoraArea.getAltura());
                         break;
-                }
+                }*/
 
                 break;
         }
